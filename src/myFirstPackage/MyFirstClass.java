@@ -10,7 +10,7 @@ public class MyFirstClass
 		String message = "hello";
 		System.out.print(message);
 		int i = 5;
-	
+		System.out.println(i);
 
 		int year = 2024;
 		boolean isLeapYear = (year%4 ==0) && (year%100 !=0);
