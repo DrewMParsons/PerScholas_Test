@@ -9,6 +9,7 @@ public class MyFirstClass
 		//entry point  for  the  project
 		String message = "hello";
 		System.out.print(message);
+		int i = 5;
 	
 
 		int year = 2024;
